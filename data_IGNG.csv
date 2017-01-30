@@ -1,0 +1,36 @@
+Data_Checked(1=yes),First_author,Year,Publication_type,Exp_num,Independent_group_index,N_group,IGNG,IGNG_C_RTmean,IGNG_C_RTsd,IGNG_IC_RTmean,IGNG_IC_RTsd,IGNG_RTdelta,IGNG_Spooled,IGNG_RTdelta_sd,IGNG_d,IGNG_corr_est,IGNG_Vd
+,de la Asuncion,2015,Research Article,"1 (healthy controls only, excluded schizoprenia patients)",116,16,1*,380,64,383,64,0,64,,0.046875,0.5,0.062568665
+1,Dittrich,2012,Research Article,1 (IGNG-joystick),14,17.5,1,395,30,404,31,9,30.50409809,10,0.295042324,0.5,0.059629999
+1,Dittrich,2012,Research Article,1 (IGNG-response keys),15,17.5,1,321,33,323,37,2,35.05709629,9,0.057049791,0.5,0.057235848
+,Dolk,2011,Research Article,3 (stroking device),32_ave_NONBA,,1,,,,,,25.05538514,,0.139095934,0.5,0.053685035
+1,Kiernan,2012,Research Article,1b (instructions to focus on producing contralateral aftereffects),51,12,1,344,86,336,79,-8,82.57420905,N/A,-0.096882551,0.5,0.083724426
+1,Lam,2010,Research Article,1 (JGNG Different-alternative),52,12,1,482,132,474,128,-8,130.0153837,N/A,-0.06153118,0.5,0.083491087
+1,Lam,2013,PhD Thesis,2 (J competitive GNG),53,22,1,298,28,306,28,8,28,N/A,0.285714286,0.5,0.047309833
+1,Lam,2013,PhD Thesis,3 (JGNG first seating arrangement),54,26,1,386,54,387,48,1,51.0881591,N/A,0.019574007,0.5,0.038468907
+,Lam,2013,PhD Thesis,4,55_ave,,1,,,,,,67.30599997,,0.123735786,0.5,0.091612905
+,Lam,2013,PhD Thesis,4,56_ave,,1,,,,,,64.25363566,,0.179981958,0.5,0.101825874
+,Lam,2013,PhD Thesis,4,57_ave,,1,,,,,,65.74208989,,-0.045825155,0.5,0.100765211
+1,Lam,2013,PhD Thesis,"4 (JA/TC exposure group - IGNG base, JA pre, TC exp)",58,10,1,509,86,502,85,-7,85.50146198,N/A,-0.081869945,0.5,0.100335134
+1,Lam,2013,PhD Thesis,5 (Sebanz et al. 2003 replication),59,16,1,449,49,452,48,3,48.50257725,N/A,0.061852383,0.5,0.062619554
+1,Lam,2013,PhD Thesis,6 (JA group),60,14,1,418,34,426,49,8,42.17226577,N/A,0.189698131,0.5,0.072713764
+1,Lam,2013,PhD Thesis,6 (J opposite key group),61,14,1,436,54,432,49,-4,51.56064391,N/A,-0.07757855,0.5,0.071643515
+1,Lam,2013,PhD Thesis,6 (J same key group),62,14,1,410,38,403,38,-7,38,N/A,-0.184210526,0.5,0.072640483
+,Liepelt,2014,Research Article,1,63_ave,,1*,,,,,,52.5,,0.12372449,0.5,0.041985612
+*,Malone,2014,Research Article,1 (visual go/no-go Simon task),72,16,1,470,43.55777772,469,43.55777772,1,43.55777772,N/A,-0.022958012,0.5,0.062516471
+*,McClung,2013,Research Article,"1 (out-group, competition)",73,16,1*,299,15,300,20,1,17.67766953,N/A,0.056568542,0.5,0.0626
+*,McClung,2013,Research Article,"1 (out-group, no comp)",74,16,1*,306,18,311,20,5,19.02629759,N/A,0.262794166,0.5,0.064658149
+*,McClung,2013,Research Article,"1 (in-group, competition) ",75,16,1*,295,23,297,18,2,20.65187643,N/A,0.0968435,0.5,0.062793083
+*,McClung,2013,Research Article,"1 (in-group, no comp) ",76,16,1*,320,20,320,20,0,20,N/A,0,0.5,0.0625
+,Sebanz,2003,Research Article,1 (original manipulation - JA + IGNG group),1,20,1,323,32,326,28,3,30.06659276,N/A,0.099778516,0.5,0.050248894
+,Sebanz,2003,Research Article,2 (presence group -- confederate who just sat beside participant),3,20,1,343,66,340,63,-3,64.5174395,N/A,-0.046499055,0.5,0.050054054
+,Sebanz,2003,Research Article,2 (no-feedback group -- JA task w/ no visual or auditory feedback about other's actions),4,16,1,379,36,381,31,2,33.59315406,N/A,0.05953594,0.5,0.062610767
+,"Sellaro, Treccani",2013,Research Article,"1 (control condition, right-button)",96_ave,,1*,,,,,,54.1475345,,-0.096540128,0.5,0.065773509
+*,"Sellaro, Treccani",2013,Research Article,"1 (social condition, baseline IGNG) right-button",97,32,1*,343,65,351,81,8,73.43704787,N/A,0.108936841,0.5,0.031435426
+,"Sellaro, Treccani",2013,Research Article,"1 (control condition, left-button)",98_ave,,1*,,,,,,40,,0.044117647,0.5,0.062621648
+*,"Sellaro, Treccani",2013,Research Article,"1 (social condition, baseline IGNG) left-button",99,32,1*,331,49,331,65,0,57.55866572,N/A,0,0.5,0.03125
+*,"Sellaro, Treccani",2013,Research Article,2 (baseline IGNG) right-button,100,16,1*,333,53,347,53,14,53,N/A,0.264150943,0.5,0.064680491
+*,"Sellaro, Treccani",2013,Research Article,2 (baseline IGNG) left-button,101,16,1*,340,40,343,53,3,46.95210325,N/A,0.063894901,0.5,0.06262758
+*,"Sellaro, Treccani",2013,Research Article,3 (baseline IGNG) right-button,102,8,1*,326,57,337,48,11,52.69250421,N/A,0.208758346,0.5,0.127723753
+*,"Sellaro, Treccani",2013,Research Article,3 (baseline IGNG) left-button,103,8,1*,346,65,349,73,3,69.11584478,N/A,0.043405387,0.5,0.125117752
+*,Tsai et al. ,2006,Research Article,1 (common coding),111,22,1,438,44,440,41,2,42.52646235,N/A,0.047029541,0.5,0.045504813
+*,Welsh et al.,2007,Research Article,1 (seeing vs. believing),114,23,1*,368,40,378,40,N/A,40,N/A,0.25,0.5,0.044836957

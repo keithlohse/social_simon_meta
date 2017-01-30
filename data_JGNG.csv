@@ -1,0 +1,96 @@
+Data_Checked(1=yes),First_author,Year,Publication_type,Exp_num,Independent_group_index,N_group,BW_vs_WI,JA,JA_C_RTmean,JA_C_RTsd,JA_IC_RTmean,JA_IC_RTsd,JA_RTdelta,JA_Spooled,JA_RTdelta_sd,JA_d,JA_corr_est,JA_Vd
+1,Colzato,2013,Research Article,1 (convergent thinking group),9,20,B/W,1*,309,25,316,27,7,26.01922366,N/A,0.269031855,0.5,0.051809453
+1,Colzato,2013,Research Article,1 (divergent thinking group),10,18,B/W,1*,310,24,330,26,20,25.01999201,N/A,0.799360767,0.5,0.073304934
+1,"Colzato, de Bruijn",2012,Research Article,1 (independent group),5,22,B/W,1*,326,27,333,30,7,28.53944639,N/A,0.245274555,0.5,0.046821809
+1,"Colzato, de Bruijn",2012,Research Article,1 (interdependent group),6,22,B/W,1*,319,27,332,28,13,27.50454508,N/A,0.472649155,0.5,0.050531755
+1,"Colzato, Zech",2012,Research Article,1 (Buddhist group),7,20,B/W,1,335,39,353,38,18,38.50324662,N/A,0.467493045,0.5,0.055463744
+1,"Colzato, Zech",2012,Research Article,1 (Atheist group),8,20,B/W,1,329,23,339,29,10,26.17250466,N/A,0.38208036,0.5,0.053649635
+1,"Costantini, Di Vacri",2013,Research Article,1 (typical),11,24,W/I,1,376,9,385,9,9,9,N/A,1,0.5,0.0625
+1,"Costantini, Ferri",2013,Research Article,1 (social inclusion group),12,20,B/W,1*,347,39,356,43,9,41.0487515,N/A,0.219251492,0.5,0.05120178
+1,"Costantini, Ferri",2013,Research Article,1 (social exclusion/ostracism group),13,20,B/W,1*,368,53,366,50,-2,51.52184003,N/A,-0.038818489,0.5,0.050037672
+,de la Asuncion,2015,Research Article,"1 (healthy controls only, excluded schizoprenia patients)",116,16,B/W,1*,380,64,387,64,7,64,,0.109375,0.5,0.06287384
+1,Dittrich,2012,Research Article,2 (JA-hortizontal task),20,46,B/W,1,289,18,294,20,5,19.02629759,6,0.262794166,0.5,0.022489791
+1,Dittrich,2012,Research Article,2 (JA-vertical task),21,46,B/W,1,304,23,306,23,2,23,6,0.086956522,0.5,0.02182132
+1,Dittrich,2012,Research Article,3 (JA-horizontal task),24,54,B/W,1,301,27,307,27,6,27,6,0.222222222,0.5,0.018975766
+1,Dittrich,2012,Research Article,3 (JA-vertical task),25,54,B/W,1,305,23,307,23,2,23,7,0.086956522,0.5,0.018588532
+1,Dittrich,2013,Research Article,1 (vertical stimuli: vertical response keys-horizontal seating),26,24,B/W,1,334,28,335,24,1,26.07680962,12,0.038348249,0.5,0.041697304
+1,Dittrich,2013,Research Article,1 (vertical stimuli: vertical response keys-vertical seating),27,24,B/W,1,334,37,341,43,7,40.11234224,13,0.174509879,0.5,0.042301119
+1,Dittrich,2013,Research Article,2 (vertical stimuli: hortizontal response keys-vertical seating),28,24,B/W,1,328,33,326,30,-2,31.53569406,15,-0.063420199,0.5,0.041750461
+1,Dittrich,2013,Research Article,2 (vertical stimuli: vertical response keys-vertical seating),29,24,B/W,1,326,27,332,29,6,28.01785145,12,0.214149183,0.5,0.042622081
+1,Dolk,2011,Research Article,1,30_ave,20,,1*,,,,,,,,0.80952381,0.5,0.067662273
+1,Dolk,2011,Research Article,2,31_ave,20,,1*,,,,,,,,0.514054354,0.5,0.056931507
+1,Dolk,2012,Research Article,1 (typical task w/ auditory stimuli),33,11,W/I,1,305,12,329,13,24,12.509996,N/A,1.918465841,0.5,0.258205054
+1,"Dolk, Liepelt",2013,Research Article,1 blindfolded group,34_ave,16,,1*,,,,,,,,0.976799366,0.5,0.092640629
+1,"Dolk, Liepelt",2013,Research Article,1 sighted control group,35_ave,16,,1*,,,,,,,,0.669642857,0.5,0.076575454
+1,Ferraro,2011,Research Article,1 (typical),36,24,W/I,1,346,60,363,61,17,60.50206608,N/A,0.28098214,0.5,0.043311478
+1,Ferraro,2011,Research Article,2 (practiced a joint spatial compatibility task then transfered to typical),37,24,W/I,1,346,63,377,77,31,70.34912935,N/A,0.440659327,0.5,0.045712097
+1,Guagnano,2010,Research Article,1 (peripersonal space),38,36,W/I,1,295,60,302,60,7,60,N/A,0.116666667,0.5,0.027966821
+1,Guagnano,2010,Research Article,2 (extrapersonal space),39,34,W/I,1,302,68,303,69,1,68.50182479,N/A,0.014598151,0.5,0.029414899
+1,Guagnano,2010,Research Article,"3 (peripersonal space, further from computer)",40,34,W/I,1,303,58,307,58,4,58,N/A,0.068965517,0.5,0.029481709
+1,Hommel,2009,Research Article,1 (nice/cooperative/positive confederate),41,14,B/W,1*,330,23,346,26,16,24.54587542,N/A,0.651840675,0.5,0.086603438
+1,Hommel,2009,Research Article,1 (intimidating/competitive/negative confederate),42,14,B/W,1*,307,23,311,26,4,24.54587542,N/A,0.162960169,0.5,0.072377001
+1,Iani,2011,Research Article,1 (ingroup/same group),43,16,B/W,1*,319,42,332,42,13,42,N/A,0.30952381,0.5,0.065493906
+1,Iani,2011,Research Article,1 (outgroup/different group),44,16,B/W,1*,338,43,348,42,10,42.50294107,N/A,0.235277836,0.5,0.064229864
+1,Iani,2011,Research Article,2 (positive interdependence/cooperative group),45,16,B/W,1*,323,45,336,46,13,45.50274717,N/A,0.285697036,0.5,0.065050712
+1,Iani,2011,Research Article,2 (negative interdependence/competition group),46,16,B/W,1*,309,40,312,40,3,40,N/A,0.075,0.5,0.062675781
+1,Iani,2014,Research Article,1 cooperative,47_ave,16,,1*,,,,,,,,0.233637262,0.5,0.064207089
+1,Iani,2014,Research Article,1 competitive,48_ave,16,,1*,,,,,,,,0.151201792,0.5,0.06364011
+1,Iani,2014,Research Article,2,49_ave,16,,1*,,,,,,,,0.172442315,0.5,0.063433559
+1,Kiernan,2012,Research Article,1 (instructions to focus on producing contralateral aftereffects),50,15,W/I,1*,320,58,305,52,-15,55.08175742,N/A,-0.272322466,0.5,0.069138651
+1,Lam,2010,Research Article,1,52_ave,12,,1,,,,,,,,0.064082365,0.5,0.083884387
+1,Lam,2013,PhD Thesis,2 (J competitive GNG),53,22,W/I,1,273,19,289,23,16,21.09502311,N/A,0.758472741,0.5,0.058529111
+1,Lam,2013,PhD Thesis,3,54_ave,26,,1,,,,,,,,0.073069433,0.5,0.038933118
+1,Lam,2013,PhD Thesis,4 (IGNG/JA exposure group - IGNG pretest+JA exposure),57,10,B/W,1,442,55,444,54,2,54.50229353,N/A,0.036695703,0.5,0.100067329
+1,Lam,2013,PhD Thesis,4,58_ave,10,,1,,,,,,,,0.062439019,0.5,0.101589441
+1,Lam,2013,PhD Thesis,5 (Sebanz et al. 2003 replication),59,16,W/I,1,426,49,443,42,17,45.63441684,N/A,0.372525852,0.5,0.066836735
+1,Lam,2013,PhD Thesis,6 (JA group),60,14,B/W,1,395,39,415,40,20,39.50316443,N/A,0.506288554,0.5,0.080583146
+1,Lam,2013,PhD Thesis,6 (J opposite key group),61,14,B/W,1,444,58,450,58,6,58,N/A,0.103448276,0.5,0.071810769
+1,Lam,2013,PhD Thesis,6 (J same key group),62,14,B/W,1,406,44,405,32,-1,38.47076812,N/A,-0.025993762,0.5,0.071452703
+1,Liepelt,2012,Research Article,"1 (typical, healthy controls)",66,20,B/W,1*,395,35,411,35,16,35,N/A,0.457142857,0.5,0.05522449
+1,Liepelt,2012,Research Article,"1 (typical, first-degree relatives of Schizophrenia patients)",67,20,B/W,1*,373,21,394,21,21,21,N/A,1,0.5,0.075
+1,Liepelt,2014,Research Article,1,63_ave,24,,1*,,,,,,,,0.325011181,0.5,0.044080661
+1,Liepelt,2014,Research Article,2,64_ave,32,,1*,,,,,,,,0.300661384,0.5,0.032823966
+1,Liepelt,2014,Research Article,3,65_ave,31,,1*,,,,,,,,0.210840481,0.5,0.032999672
+*,Malone,2014,Research Article,1 (visual go/no-go Simon task),72,16,B/W,1,395,31,409,31,14,31,N/A,0.451612903,0.5,0.068873569
+*,McClung,2013,Research Article,"1 (out-group, competition)",73,16,B/W,1*,274,6,274,10,0,8.246211251,N/A,0,0.5,0.0625
+*,McClung,2013,Research Article,"1 (out-group, no comp)",74,16,B/W,1*,277,6,279,12,2,9.486832981,N/A,0.210818511,0.5,0.063888889
+*,McClung,2013,Research Article,"1 (in-group, competition) ",75,16,B/W,1*,272,12,278,12,6,12,N/A,0.5,0.5,0.0703125
+*,McClung,2013,Research Article,"1 (in-group, no comp) ",76,16,B/W,1*,294,14,300,14,6,14,N/A,0.428571429,0.5,0.068239796
+*,Milanese,2010,Research Article,1,77_ave,16,,1*,,,,,,,,0.205548048,0.5,0.065578125
+*,Milanese,2010,Research Article,2,78_ave,16,,1*,,,,,,,,0.232217464,0.5,0.064191315
+*,Milanese,2010,Research Article,4,80_ave,16,,1*,,,,,,,,0.128332238,0.5,0.063076453
+*,Milanese,2011,Research Article,1 (changed partners),81,16,W/I,1*,351,25,345,20,-6,22.63846285,N/A,-0.265035663,0.5,0.064695122
+*,Milanese,2011,Research Article,2 (switched seats),82,16,W/I,1*,350,30,365,30,14,30,N/A,0.5,0.5,0.0703125
+*,"MÙller, Brass",2011,Research Article,"1 (Biological condition, human hand)",83,38,B/W,1*,357,49,368,43,11,46.09772229,N/A,0.238623504,0.5,0.027065015
+*,"MÙller, Brass",2011,Research Article,"1 (Biological condition, wooden hand)",84,38,B/W,1*,356,48,359,55,4,51.61879503,N/A,0.058118366,0.5,0.026360233
+*,"MÙller, Brass",2011,Research Article,"1 (Pinocchio condition, human hand)",85,34,B/W,1*,352,58,357,52,5,55.08175742,N/A,0.090774155,0.5,0.02953294
+*,"MÙller, Brass",2011,Research Article,"1 (Pinocchio condition, wooden hand)",86,34,B/W,1*,351,52,363,46,14,49.09175083,N/A,0.244440253,0.5,0.030290456
+*,"MÙller, KÙhn",2011,Research Article,1,87_ave,25,,1*,,,,,,,,0.214111745,0.5,0.041201153
+,"MÙller, KÙhn",2011,Research Article,2,88_ave,21.5,,1,,,,,,,,0.258775713,0.5,0.049356815
+,"MÙller, KÙhn",2011,Research Article,2,89_ave,21.5,,1,,,,,,,,0.424917903,0.5,0.050817543
+*,Ruys,2010,Research Article,1 (interdependency - independent),90,33,B/W,1,386,92,409,99,24,95.5641146,27,0.240676117,0.5,0.031180682
+*,Ruys,2010,Research Article,1 (interdependency - cooperation),91,33,B/W,1,387,82,426,87,38,84.53697416,34,0.461336597,0.5,0.033527749
+*,Ruys,2010,Research Article,1 (interdependency - competition),92,33,B/W,1,361,70,402,66,41,68.02940541,29,0.602680558,0.5,0.035806422
+,Sebanz,2003,Research Article,1 (original manipulation - JA + IGNG group),1,20,??,1,325,32,336,32,11,32,N/A,0.34375,0.5,0.052954102
+,Sebanz,2003,Research Article,2 (presence group -- confederate who just sat beside participant),3,20,??,1,342,56,344,51,2,53.55837936,N/A,0.037342429,0.5,0.050034861
+,Sebanz,2003,Research Article,2 (no-feedback group -- JA task w/ no visual or auditory feedback about other's actions),4,16,??,1,387,34,395,34,8,34,N/A,0.235294118,0.5,0.064230104
+*,Sellaro,2015,Research Article,1 (lavendar aroma),94,24,B/W,1*,319,30.37367281,334,30.37367281,15,30.37367281,N/A,0.493848738,0.5,0.046747637
+*,Sellaro,2015,Research Article,1 (peppermint aroma),95,24,B/W,1*,326,30,332,30,6,30,N/A,0.2,0.5,0.0425
+*,"Sellaro, Treccani",2013,Research Article,"1 (social condition, JA) right-button",97,32,B/W,1*,326,32,326,32,0,32,N/A,0,0.5,0.03125
+*,"Sellaro, Treccani",2013,Research Article,"1 (social condition, JA) left-button",99,32,B/W,1*,314,48,314,48,0,48,N/A,0,0.5,0.03125
+,"Sellaro, Treccani",2013,Research Article,2 (JA) right-button,100,16,B/W,1*,313,40,327,53,14,46.95210325,N/A,0.298176206,0.5,0.126389204
+,"Sellaro, Treccani",2013,Research Article,2 (JA) left-button,101,16,B/W,1*,330,40,333,53,3,46.95210325,N/A,0.063894901,0.5,0.12506379
+*,"Sellaro, Treccani",2013,Research Article,3 (JA) right-button,102,8,B/W,1*,314,40,326,48,12,44.18144407,N/A,0.271607238,0.5,0.129610656
+*,"Sellaro, Treccani",2013,Research Article,3 (JA) left-button,103,8,B/W,1*,309,32,314,32,5,32,N/A,0.15625,0.5,0.126525879
+*,Stenzel,2012,Research Article,1 (human-like robot),104,24,B/W,1*,338,11,346,11,8,11,N/A,0.727272727,0.5,0.05268595
+*,Stenzel,2012,Research Article,1 (machine-like robot),105,24,B/W,1*,332,7,333,7,1,7,N/A,0.142857143,0.5,0.042091837
+*,Stenzel,2014,Research Article,1 (agency + intentionality +),106,16,B/W,1*,348,16,364,20,16,18.11077028,N/A,0.883452209,0.5,0.086890244
+*,Stenzel,2014,Research Article,1 (agency - intentionality -),107,16,B/W,1*,355,12,358,12,3,12,N/A,0.25,0.5,0.064453125
+*,Stenzel,2014,Research Article,2 (agency - intentionality +),108,16,B/W,1*,348,20,360,20,16,20,N/A,0.6,0.5,0.07375
+*,Stenzel,2014,Research Article,2 (agency - intentionality -),109,16,B/W,1*,366,20,370,20,4,20,N/A,0.2,0.5,0.06375
+,Tsai et al.,2007,Research Article,1,112_ave,20,,1*,,,,,,,,0.060472644,0.5,0.050373794
+,Tsai et al.,2008,Research Article,1,110_ave,20,,1*,,,,,,,,0.505572555,0.5,0.059770604
+*,Tsai et al. ,2006,Research Article,1 (common coding),111,22,W/I,1,434,32,450,33,15,32.50384593,N/A,0.492249441,0.5,0.05096158
+,Welsh,2009,Research Article,1,113_ave,22,,1*,,,,,,,,0.17701818,0.5,0.046223952
+,Welsh et al.,2007,Research Article,1,114_ave,23,,1*,,,,,,,,0.238563138,0.5,0.044855054
+,Welsh et al.,2013,Research Article,1,115_ave,20,,1*,,,,,,,,0.187277697,0.5,0.051011844
